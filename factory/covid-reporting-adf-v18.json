@@ -1,0 +1,9 @@
+{
+	"name": "covid-reporting-adf-v18",
+	"location": "northeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "15adaa24-5148-4ec1-b45b-f1a9ce7d2e42",
+		"tenantId": "57c6fd70-c9cf-4b89-a45a-5ee5aacccac3"
+	}
+}
